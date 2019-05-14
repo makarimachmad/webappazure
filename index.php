@@ -28,7 +28,7 @@
  <?php
     $host = "webappserverazure.database.windows.net";
     $user = "makarimachmad";
-    $pass = "02200880amw";
+    $pass = "";
     $db = "dbwebapp";
 
     try {
